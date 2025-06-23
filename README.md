@@ -3,3 +3,4 @@
 This systemless patch fixes these things:
 * Telephony (especially in-call voice via RIL)
 * GPS
+* ~~FM Radio~~ (coming soon)
